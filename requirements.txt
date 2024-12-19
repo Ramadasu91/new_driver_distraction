@@ -6,7 +6,7 @@ charset-normalizer==2.1.1
 clarifai==2.6.2
 clarifai-grpc==8.11.0
 configparser==3.8.1
-python3-distutils
+distutils
 flatbuffers==22.12.6
 future==0.18.3
 gast==0.4.0
